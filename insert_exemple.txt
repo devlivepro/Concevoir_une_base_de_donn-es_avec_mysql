@@ -1,0 +1,13 @@
+Pour la table achete :
+
+INSERT INTO achete (id_client, id_menu, jour)
+VALUES (1, 'ID_DU_MENU', '2024-04-18');
+
+
+Remplacez ID_DU_MENU par l'ID du menu que vous souhaitez insérer et assurez-vous d'avoir une valeur appropriée pour jour.
+
+
+Pour la table paye :
+
+INSERT INTO paye (id_client, id_menu, jour)
+VALUES (1, 'ID_DU_MENU', '2024-04-18');
